@@ -9,6 +9,8 @@ resources:
 - placementrule-g-eu3.yaml
 - placementrule-a-uw1.yaml
 - placementrule-az-cus.yaml
+- placementrule-az-eus2.yaml
+- placementrule-az-eus.yaml
 - subscription-provider-a-us1.yaml
 - subscription-provider-a-us2.yaml
 - subscription-provider-a-eu1.yaml
@@ -16,4 +18,6 @@ resources:
 - subscription-provider-g-eu3.yaml
 - subscription-provider-a-uw1.yaml
 - subscription-provider-az-cus.yaml
+- subscription-provider-az-eus.yaml
+- subscription-provider-az-eus2.yaml
 - application.yaml
